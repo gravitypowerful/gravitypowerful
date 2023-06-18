@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gravity</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 - 🌱 I’m currently learning **Rust**
 
